@@ -1,1 +1,2 @@
 D:\School\big shit\Processor\Processor\bin\Debug\Processor.exe.config
+E:\Shit\Processor\bin\Debug\Processor.exe.config
