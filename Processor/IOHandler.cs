@@ -62,7 +62,7 @@ namespace Processor
                 b.location,
                 b.car, b.city, b.foot,
                 b.facilities,
-                b.density, b.polution, b.grade;
+                b.density, b.polution, b.grade);
 
             writer.Write(data);
         }

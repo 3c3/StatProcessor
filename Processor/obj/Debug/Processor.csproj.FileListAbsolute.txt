@@ -1,1 +1,8 @@
 D:\School\big shit\Processor\Processor\bin\Debug\Processor.exe.config
+D:\School\big shit\Processor\Processor\obj\Debug\Processor.csprojResolveAssemblyReference.cache
+D:\School\big shit\Processor\Processor\obj\Debug\Processor.Properties.Resources.resources
+D:\School\big shit\Processor\Processor\obj\Debug\Processor.csproj.GenerateResource.Cache
+D:\School\big shit\Processor\Processor\bin\Debug\Processor.exe
+D:\School\big shit\Processor\Processor\bin\Debug\Processor.pdb
+D:\School\big shit\Processor\Processor\obj\Debug\Processor.exe
+D:\School\big shit\Processor\Processor\obj\Debug\Processor.pdb
