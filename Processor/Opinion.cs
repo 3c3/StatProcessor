@@ -8,6 +8,8 @@ namespace Processor
 {
     public class Opinion
     {
+        public static List<Opinion> allOpinions = new List<Opinion>();
+
         public Frequency freq;
         public int age;
         public List<BeachOpinion> opinions = new List<BeachOpinion>();

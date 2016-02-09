@@ -19,6 +19,41 @@ namespace Processor
         List<int> polution = new List<int>();
         List<int> grade = new List<int>();
 
+        public int Density
+        {
+            get 
+            {
+                int sum = 0;
+                density.ForEach(i => sum += i);
+                return sum / density.Count;
+            }
+        }
+
+        public int Polution
+        {
+            get
+            {
+                int sum = 0;
+                polution.ForEach(i => sum += i);
+                return sum / density.Count;
+            }
+        }
+
+        public int Grade
+        {
+            get
+            {
+                int sum = 0;
+                grade.ForEach(i => sum += i);
+                return sum / density.Count;
+            }
+        }
+
+        public int People
+        {
+            get { return grade.Count; }
+        }
+
         public Beach(BeachOpinion bo)
         {
             name = bo.name;
@@ -36,5 +71,7 @@ namespace Processor
             polution.Add(bo.polution);
             grade.Add(bo.grade);
         }
+
+        
     }
 }

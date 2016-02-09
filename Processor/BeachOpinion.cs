@@ -10,7 +10,7 @@ namespace Processor
     {
         public string name, location;
         public bool car, city, foot;
-        public byte facilities; // 0 - няма; 1 - до 2; 2 - 3-5; 3 - над 5
+        public int facilities; // 0 - няма; 1 - до 2; 2 - 3-5; 3 - над 5
         public int density, polution, grade;
 
         public void Register()
